@@ -1,0 +1,9 @@
+{%- assign fail = include.fail -%}
+{%- assign name = fail.name | strip -%}
+{%- assign desc = fail.desc | strip | split: ' ' | first -%}
+{%- if desc contains "http" or desc contains "www." -%}
+  {%- assign link = desc -%}
+{%- else -%}
+  {%- assign link = name -%}
+{%- endif -%}
+<a href="{% if link contains 'http' %}{{link}}{% else %}http://{{link}}{% endif %}" rel="noreferrer nowindow">{{ link }}</a>

@@ -1,3 +1,4 @@
+{%- assign fail = include.fail -%}
 {%- assign createAction = fail.actions | where_exp: "item", "item.type == 'emailCard'" | first -%}
 <div class="card" style="max-width: 200px;">
   <div class="card-image">
@@ -14,7 +15,7 @@
   </div>
   <div class="card-content">
     <div class="content">
-        <a href="{{ fail.name }}" rel="noreferrer nowindow">{{ fail.name }}</a>
+        {% include fail_link.html fail=fail %}
         <br>
         <time datetime="{{createAction.date}}">{{ createAction.date | date_to_long_string }}</time>
     </div>
