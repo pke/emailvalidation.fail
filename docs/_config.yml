@@ -1,2 +1,4 @@
-url: http://emailvalidation.fail
 host: 0.0.0.0
+exclude: [update.sh, CNAME]
+
+
