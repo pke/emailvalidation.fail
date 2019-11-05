@@ -1,0 +1,22 @@
+{%- assign createAction = fail.actions | where_exp: "item", "item.type == 'emailCard'" | first -%}
+<div class="card" style="max-width: 200px;">
+  <div class="card-image">
+    <figure class="image">
+      {%- for attachment in fail.attachments -%}
+        {%- if attachment.mimeType contains "image/" -%}
+          <img src="{{attachment.url}}"/>
+        {%- else if attachment.mimeType contains "video/" -%}
+          <video src="{{attachment.url}}/">
+          </video>
+        {%- endif -%}
+      {%- endfor -%}
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="content">
+        <a href="{{ fail.name }}" rel="noreferrer nowindow">{{ fail.name }}</a>
+        <br>
+        <time datetime="{{createAction.date}}">{{ createAction.date | date_to_long_string }}</time>
+    </div>
+  </div>
+</div>

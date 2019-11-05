@@ -1,0 +1,11 @@
+{%- if include.thanks -%}
+<div class="notification is-success">
+  <p>
+    Thank you for your help in improving email validation!
+  </p>
+  <p class="content is-small">Please note: It can take a few moments for your report to be processed.</p>
+</div>
+{%- endif %}
+
+{%- include report.html -%}
+{%- include fails.html items=site.data.fails -%}

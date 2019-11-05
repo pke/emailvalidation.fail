@@ -1,0 +1,61 @@
+---
+# Default Layout
+---
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{%-unless site.github -%}[DEV]-{%- endunless -%}email validation fail</title>
+  <!--link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"-->
+  <!--link href="assets/css/bulma.min.css" rel="stylesheet"-->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      margin: 0;
+      background-color: rgb(33, 6, 58);
+      color: wheat;
+      font-family: system-ui;
+      display: flex;
+      flex-direction: column;
+    }
+    .text-center {
+      text-align: center;
+    }
+    #report {
+      background-color: rgba(255,255,255,.2);
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    #report #url {
+      width: 100%;
+    }
+    button {
+      padding: 0.8rem;
+      font-weight: 800;
+    }
+    .columns {
+      display: flex;
+      flex-flow: row wrap;
+    }
+    a, a:active, a:visited {
+      color: white;
+      text-decoration: underline;
+    }
+    #items {
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  {%- include nav.html -%}
+  <main class="bg-indigo-800">
+    {{ content }}
+  </main>
+</body>
+</html>

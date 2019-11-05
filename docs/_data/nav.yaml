@@ -1,0 +1,12 @@
+- text: Email validation fails
+  href: /
+  hint: Go to Home Page
+- text: Why?
+  href: /why
+  hint: Why does this exist?
+- text: Fails
+  href: /fails
+  hint: Sites getting email validation wrong
+- text: Unfails
+  href: /unfails
+  title: Sites that fixed their email validation

@@ -1,0 +1,33 @@
+<section id="report" class="columns">
+  <section section="section">
+      <div class="container">
+        <p>Send an email to <a href="report@emailvalidation.fail">report@emailvalidation.fail</a></p>
+        <strong>Subject</strong>: URL of the website (Usually the signup/register page)</p>
+        <strong>Body</strong>: Optionally describe what you did to trigger the validation fail</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <form action="https://usebasin.com/f/6f240a1f33ab"
+          accept-charset="UTF-8"
+          enctype="multipart/form-data"
+          method="POST">
+          <input type="hidden" name="utf8" value="✓">
+          <div class="field">
+            <div class="control">
+              <input class="input is-large" type="url" id="url" name="url" placeholder="URL" required>
+            </div>
+          </div>
+          <div class="field">
+            <div class="content">
+              <label for="attachments">Optionally add screenshot(s) and/or video to document the validation fail</label>
+            </div>
+            <input type="file" id="attachments" multiple name="attachments[]">
+          </div>
+          <div class="field">
+            <button type="submit" class="button is-link">Report</button>
+          </div>
+        </form>
+      </div>
+    </section>
+</section>

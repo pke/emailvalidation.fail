@@ -1,0 +1,32 @@
+<style>
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  nav ul li {
+    float: left;
+  }
+  nav a {
+    padding: 1rem;
+    display: block;
+    color: rgba(255,255,255,.5);
+    text-decoration: none;
+    text-align: center;
+  }
+  nav a:hover {
+    color: rgba(255,255,255,.9);
+  }
+  nav a .active {
+    font-weight: 900;
+    color: white;
+  }
+</style>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <ul>
+  {%- for item in site.data.nav -%}
+    <li><a href="{{item.href}}" title="{{item.hint}}" class="{% if item.href == site.url%}active{%endif%}">{{item.text}}</a></li>
+  {%- endfor -%}
+  </ul>
+</nav>

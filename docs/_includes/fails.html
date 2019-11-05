@@ -1,0 +1,9 @@
+<section id="items" class="section">
+  {%- for fail in include.items -%}
+    {%- include fail.html fail=fail -%}
+  {%- else -%}
+    <p class="text-center">
+      None of the reported sites have fixed their email validation yet.
+    </p>
+  {%- endfor -%}
+</section>
