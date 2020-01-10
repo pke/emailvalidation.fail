@@ -1,0 +1,7 @@
+language: generic
+node_js:
+  - 12
+before_script: test "$TRELLO_UPDATE" = "true" || travis_terminate 0
+script: bash ./update.sh
+branches:
+  only: master
