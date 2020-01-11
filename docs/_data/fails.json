@@ -1,188 +1,5 @@
 [
   {
-    "id": "5dc02ef65b5e7f4f9e3310ce",
-    "name": "www.schmidtspiele.de",
-    "desc": "",
-    "cover": {
-      "idAttachment": "5dc02ef65b5e7f4f9e3310df",
-      "color": null,
-      "idUploadedBackground": null,
-      "size": "normal",
-      "brightness": "light",
-      "scaled": [
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310eb",
-          "scaled": false,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/70x50/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-          "bytes": 1730,
-          "height": 50,
-          "width": 70,
-          "id": "5dc02ef65b5e7f4f9e3310eb",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310ea",
-          "scaled": false,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/250x150/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-          "bytes": 12494,
-          "height": 150,
-          "width": 250,
-          "id": "5dc02ef65b5e7f4f9e3310ea",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310e9",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/149x47/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-          "bytes": 5129,
-          "height": 47,
-          "width": 149,
-          "id": "5dc02ef65b5e7f4f9e3310e9",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310e8",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/300x95/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-          "bytes": 13515,
-          "height": 95,
-          "width": 300,
-          "id": "5dc02ef65b5e7f4f9e3310e8",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310e7",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/434x137/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-          "bytes": 7224,
-          "height": 137,
-          "width": 434,
-          "id": "5dc02ef65b5e7f4f9e3310e7",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc02ef65b5e7f4f9e3310e6",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
-          "width": 434,
-          "height": 137,
-          "bytes": 5395,
-          "id": "5dc02ef65b5e7f4f9e3310e6",
-          "typeName": "Preview"
-        }
-      ],
-      "edgeColor": "#ececec"
-    },
-    "attachments": [
-      {
-        "id": "5dc02ef65b5e7f4f9e3310df",
-        "bytes": 5395,
-        "date": "2019-11-04T14:00:22.289Z",
-        "edgeColor": "#ececec",
-        "idMember": "5093ab4a5373eeaf0500ce37",
-        "isUpload": true,
-        "mimeType": "image/png",
-        "name": "www.schmidtspiele.de.png",
-        "previews": [
-          {
-            "id": "5dc02ef65b5e7f4f9e3310eb",
-            "_id": "5dc02ef65b5e7f4f9e3310eb",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/70x50/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-            "bytes": 1730,
-            "height": 50,
-            "width": 70
-          },
-          {
-            "id": "5dc02ef65b5e7f4f9e3310ea",
-            "_id": "5dc02ef65b5e7f4f9e3310ea",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/250x150/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-            "bytes": 12494,
-            "height": 150,
-            "width": 250
-          },
-          {
-            "id": "5dc02ef65b5e7f4f9e3310e9",
-            "_id": "5dc02ef65b5e7f4f9e3310e9",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/149x47/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-            "bytes": 5129,
-            "height": 47,
-            "width": 149
-          },
-          {
-            "id": "5dc02ef65b5e7f4f9e3310e8",
-            "_id": "5dc02ef65b5e7f4f9e3310e8",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/300x95/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-            "bytes": 13515,
-            "height": 95,
-            "width": 300
-          },
-          {
-            "id": "5dc02ef65b5e7f4f9e3310e7",
-            "_id": "5dc02ef65b5e7f4f9e3310e7",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/434x137/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
-            "bytes": 7224,
-            "height": 137,
-            "width": 434
-          },
-          {
-            "id": "5dc02ef65b5e7f4f9e3310e6",
-            "_id": "5dc02ef65b5e7f4f9e3310e6",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
-            "bytes": 5395,
-            "height": 137,
-            "width": 434
-          }
-        ],
-        "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
-        "pos": 16384
-      }
-    ],
-    "actions": [
-      {
-        "id": "5dc02ef65b5e7f4f9e3310cf",
-        "idMemberCreator": "5093ab4a5373eeaf0500ce37",
-        "data": {
-          "card": {
-            "id": "5dc02ef65b5e7f4f9e3310ce",
-            "name": "www.schmidtspiele.de",
-            "idShort": 6,
-            "shortLink": "d5UBmzeN"
-          },
-          "list": {
-            "id": "5dc01d21a74d223445930f94",
-            "name": "Fails"
-          },
-          "board": {
-            "id": "5dc01ce1818ce285871ee1b4",
-            "name": "emailvalidation.fail",
-            "shortLink": "OSIlbRbJ"
-          }
-        },
-        "type": "emailCard",
-        "date": "2019-11-04T14:00:22.174Z",
-        "limits": {},
-        "memberCreator": {
-          "id": "5093ab4a5373eeaf0500ce37",
-          "activityBlocked": false,
-          "avatarHash": "c49e3d9119d91a010783357ad4190b91",
-          "avatarUrl": "https://trello-avatars.s3.amazonaws.com/c49e3d9119d91a010783357ad4190b91",
-          "fullName": "Philipp Kursawe",
-          "idMemberReferrer": null,
-          "initials": "PK",
-          "nonPublic": {},
-          "nonPublicAvailable": false,
-          "username": "pkursawe"
-        }
-      }
-    ]
-  },
-  {
     "id": "5de0d04374f4761556f14419",
     "name": "https://www.moebelconcept24.de",
     "desc": "",
@@ -385,6 +202,353 @@
     ]
   },
   {
+    "id": "5dc02ef65b5e7f4f9e3310ce",
+    "name": "www.schmidtspiele.de",
+    "desc": "",
+    "cover": {
+      "idAttachment": "5dc02ef65b5e7f4f9e3310df",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310eb",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/70x50/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+          "bytes": 1730,
+          "height": 50,
+          "width": 70,
+          "id": "5dc02ef65b5e7f4f9e3310eb",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310ea",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/250x150/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+          "bytes": 12494,
+          "height": 150,
+          "width": 250,
+          "id": "5dc02ef65b5e7f4f9e3310ea",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310e9",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/149x47/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+          "bytes": 5129,
+          "height": 47,
+          "width": 149,
+          "id": "5dc02ef65b5e7f4f9e3310e9",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310e8",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/300x95/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+          "bytes": 13515,
+          "height": 95,
+          "width": 300,
+          "id": "5dc02ef65b5e7f4f9e3310e8",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310e7",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/434x137/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+          "bytes": 7224,
+          "height": 137,
+          "width": 434,
+          "id": "5dc02ef65b5e7f4f9e3310e7",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc02ef65b5e7f4f9e3310e6",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
+          "width": 434,
+          "height": 137,
+          "bytes": 5395,
+          "id": "5dc02ef65b5e7f4f9e3310e6",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#ececec"
+    },
+    "attachments": [
+      {
+        "id": "5dc02ef65b5e7f4f9e3310df",
+        "bytes": 5395,
+        "date": "2019-11-04T14:00:22.289Z",
+        "edgeColor": "#ececec",
+        "idMember": "5093ab4a5373eeaf0500ce37",
+        "isUpload": true,
+        "mimeType": "image/png",
+        "name": "www.schmidtspiele.de.png",
+        "previews": [
+          {
+            "id": "5dc02ef65b5e7f4f9e3310eb",
+            "_id": "5dc02ef65b5e7f4f9e3310eb",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/70x50/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+            "bytes": 1730,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "id": "5dc02ef65b5e7f4f9e3310ea",
+            "_id": "5dc02ef65b5e7f4f9e3310ea",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/250x150/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+            "bytes": 12494,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "id": "5dc02ef65b5e7f4f9e3310e9",
+            "_id": "5dc02ef65b5e7f4f9e3310e9",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/149x47/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+            "bytes": 5129,
+            "height": 47,
+            "width": 149
+          },
+          {
+            "id": "5dc02ef65b5e7f4f9e3310e8",
+            "_id": "5dc02ef65b5e7f4f9e3310e8",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/300x95/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+            "bytes": 13515,
+            "height": 95,
+            "width": 300
+          },
+          {
+            "id": "5dc02ef65b5e7f4f9e3310e7",
+            "_id": "5dc02ef65b5e7f4f9e3310e7",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc02ef65b5e7f4f9e3310ce/434x137/e6fa0d36bce87e0cbc7d393a163ca6c4/www.schmidtspiele.de.png",
+            "bytes": 7224,
+            "height": 137,
+            "width": 434
+          },
+          {
+            "id": "5dc02ef65b5e7f4f9e3310e6",
+            "_id": "5dc02ef65b5e7f4f9e3310e6",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
+            "bytes": 5395,
+            "height": 137,
+            "width": 434
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc02ef65b5e7f4f9e3310ce/8493e990ece197f1b962c4855f2af127/www.schmidtspiele.de.png",
+        "pos": 16384
+      }
+    ],
+    "actions": [
+      {
+        "id": "5dc02ef65b5e7f4f9e3310cf",
+        "idMemberCreator": "5093ab4a5373eeaf0500ce37",
+        "data": {
+          "card": {
+            "id": "5dc02ef65b5e7f4f9e3310ce",
+            "name": "www.schmidtspiele.de",
+            "idShort": 6,
+            "shortLink": "d5UBmzeN"
+          },
+          "list": {
+            "id": "5dc01d21a74d223445930f94",
+            "name": "Fails"
+          },
+          "board": {
+            "id": "5dc01ce1818ce285871ee1b4",
+            "name": "emailvalidation.fail",
+            "shortLink": "OSIlbRbJ"
+          }
+        },
+        "type": "emailCard",
+        "date": "2019-11-04T14:00:22.174Z",
+        "limits": {},
+        "memberCreator": {
+          "id": "5093ab4a5373eeaf0500ce37",
+          "activityBlocked": false,
+          "avatarHash": "c49e3d9119d91a010783357ad4190b91",
+          "avatarUrl": "https://trello-avatars.s3.amazonaws.com/c49e3d9119d91a010783357ad4190b91",
+          "fullName": "Philipp Kursawe",
+          "idMemberReferrer": null,
+          "initials": "PK",
+          "nonPublic": {},
+          "nonPublicAvailable": false,
+          "username": "pkursawe"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5dc0ba1af7ab6422d61bdde0",
+    "name": "Meine Daten und Services | DHL Kundenkonto",
+    "desc": "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
+    "cover": {
+      "idAttachment": "5dc0ba1af7ab6422d61bddf1",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5dc0ba1bf7ab6422d61bddfb",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/70x50/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+          "bytes": 1905,
+          "height": 50,
+          "width": 70,
+          "id": "5dc0ba1bf7ab6422d61bddfb",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc0ba1bf7ab6422d61bddfa",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/250x150/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+          "bytes": 10171,
+          "height": 150,
+          "width": 250,
+          "id": "5dc0ba1bf7ab6422d61bddfa",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc0ba1bf7ab6422d61bddf9",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/150x49/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+          "bytes": 5331,
+          "height": 49,
+          "width": 150,
+          "id": "5dc0ba1bf7ab6422d61bddf9",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc0ba1bf7ab6422d61bddf8",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/295x96/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+          "bytes": 5979,
+          "height": 96,
+          "width": 295,
+          "id": "5dc0ba1bf7ab6422d61bddf8",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5dc0ba1bf7ab6422d61bddf7",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
+          "width": 295,
+          "height": 96,
+          "bytes": 4603,
+          "id": "5dc0ba1bf7ab6422d61bddf7",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#f4f4f4"
+    },
+    "attachments": [
+      {
+        "id": "5dc0ba1af7ab6422d61bddf1",
+        "bytes": 4603,
+        "date": "2019-11-04T23:54:02.674Z",
+        "edgeColor": "#f4f4f4",
+        "idMember": "5093ab4a5373eeaf0500ce37",
+        "isUpload": true,
+        "mimeType": "image/png",
+        "name": "dhl-email-fail.png",
+        "previews": [
+          {
+            "id": "5dc0ba1bf7ab6422d61bddfb",
+            "_id": "5dc0ba1bf7ab6422d61bddfb",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/70x50/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+            "bytes": 1905,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "id": "5dc0ba1bf7ab6422d61bddfa",
+            "_id": "5dc0ba1bf7ab6422d61bddfa",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/250x150/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+            "bytes": 10171,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "id": "5dc0ba1bf7ab6422d61bddf9",
+            "_id": "5dc0ba1bf7ab6422d61bddf9",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/150x49/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+            "bytes": 5331,
+            "height": 49,
+            "width": 150
+          },
+          {
+            "id": "5dc0ba1bf7ab6422d61bddf8",
+            "_id": "5dc0ba1bf7ab6422d61bddf8",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/295x96/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
+            "bytes": 5979,
+            "height": 96,
+            "width": 295
+          },
+          {
+            "id": "5dc0ba1bf7ab6422d61bddf7",
+            "_id": "5dc0ba1bf7ab6422d61bddf7",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
+            "bytes": 4603,
+            "height": 96,
+            "width": 295
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
+        "pos": 16384
+      }
+    ],
+    "actions": [
+      {
+        "id": "5dc0ba1af7ab6422d61bdde1",
+        "idMemberCreator": "5093ab4a5373eeaf0500ce37",
+        "data": {
+          "card": {
+            "id": "5dc0ba1af7ab6422d61bdde0",
+            "name": "Meine Daten und Services | DHL Kundenkonto",
+            "idShort": 18,
+            "shortLink": "9XKIAbzl"
+          },
+          "list": {
+            "id": "5dc01d21a74d223445930f94",
+            "name": "Fails"
+          },
+          "board": {
+            "id": "5dc01ce1818ce285871ee1b4",
+            "name": "emailvalidation.fail",
+            "shortLink": "OSIlbRbJ"
+          }
+        },
+        "type": "emailCard",
+        "date": "2019-11-04T23:54:02.574Z",
+        "limits": {},
+        "memberCreator": {
+          "id": "5093ab4a5373eeaf0500ce37",
+          "activityBlocked": false,
+          "avatarHash": "c49e3d9119d91a010783357ad4190b91",
+          "avatarUrl": "https://trello-avatars.s3.amazonaws.com/c49e3d9119d91a010783357ad4190b91",
+          "fullName": "Philipp Kursawe",
+          "idMemberReferrer": null,
+          "initials": "PK",
+          "nonPublic": {},
+          "nonPublicAvailable": false,
+          "username": "pkursawe"
+        }
+      }
+    ]
+  },
+  {
     "id": "5dcc156939df744ba2d26051",
     "name": "https://www.pkwteile.de/basket/account",
     "desc": "",
@@ -551,170 +715,6 @@
         },
         "type": "emailCard",
         "date": "2019-11-13T14:38:33.535Z",
-        "limits": {},
-        "memberCreator": {
-          "id": "5093ab4a5373eeaf0500ce37",
-          "activityBlocked": false,
-          "avatarHash": "c49e3d9119d91a010783357ad4190b91",
-          "avatarUrl": "https://trello-avatars.s3.amazonaws.com/c49e3d9119d91a010783357ad4190b91",
-          "fullName": "Philipp Kursawe",
-          "idMemberReferrer": null,
-          "initials": "PK",
-          "nonPublic": {},
-          "nonPublicAvailable": false,
-          "username": "pkursawe"
-        }
-      }
-    ]
-  },
-  {
-    "id": "5dc0ba1af7ab6422d61bdde0",
-    "name": "Meine Daten und Services | DHL Kundenkonto",
-    "desc": "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
-    "cover": {
-      "idAttachment": "5dc0ba1af7ab6422d61bddf1",
-      "color": null,
-      "idUploadedBackground": null,
-      "size": "normal",
-      "brightness": "light",
-      "scaled": [
-        {
-          "_id": "5dc0ba1bf7ab6422d61bddfb",
-          "scaled": false,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/70x50/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-          "bytes": 1905,
-          "height": 50,
-          "width": 70,
-          "id": "5dc0ba1bf7ab6422d61bddfb",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc0ba1bf7ab6422d61bddfa",
-          "scaled": false,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/250x150/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-          "bytes": 10171,
-          "height": 150,
-          "width": 250,
-          "id": "5dc0ba1bf7ab6422d61bddfa",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc0ba1bf7ab6422d61bddf9",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/150x49/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-          "bytes": 5331,
-          "height": 49,
-          "width": 150,
-          "id": "5dc0ba1bf7ab6422d61bddf9",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc0ba1bf7ab6422d61bddf8",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/295x96/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-          "bytes": 5979,
-          "height": 96,
-          "width": 295,
-          "id": "5dc0ba1bf7ab6422d61bddf8",
-          "typeName": "Preview"
-        },
-        {
-          "_id": "5dc0ba1bf7ab6422d61bddf7",
-          "scaled": true,
-          "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
-          "width": 295,
-          "height": 96,
-          "bytes": 4603,
-          "id": "5dc0ba1bf7ab6422d61bddf7",
-          "typeName": "Preview"
-        }
-      ],
-      "edgeColor": "#f4f4f4"
-    },
-    "attachments": [
-      {
-        "id": "5dc0ba1af7ab6422d61bddf1",
-        "bytes": 4603,
-        "date": "2019-11-04T23:54:02.674Z",
-        "edgeColor": "#f4f4f4",
-        "idMember": "5093ab4a5373eeaf0500ce37",
-        "isUpload": true,
-        "mimeType": "image/png",
-        "name": "dhl-email-fail.png",
-        "previews": [
-          {
-            "id": "5dc0ba1bf7ab6422d61bddfb",
-            "_id": "5dc0ba1bf7ab6422d61bddfb",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/70x50/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-            "bytes": 1905,
-            "height": 50,
-            "width": 70
-          },
-          {
-            "id": "5dc0ba1bf7ab6422d61bddfa",
-            "_id": "5dc0ba1bf7ab6422d61bddfa",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/250x150/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-            "bytes": 10171,
-            "height": 150,
-            "width": 250
-          },
-          {
-            "id": "5dc0ba1bf7ab6422d61bddf9",
-            "_id": "5dc0ba1bf7ab6422d61bddf9",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/150x49/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-            "bytes": 5331,
-            "height": 49,
-            "width": 150
-          },
-          {
-            "id": "5dc0ba1bf7ab6422d61bddf8",
-            "_id": "5dc0ba1bf7ab6422d61bddf8",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc0ba1af7ab6422d61bdde0/295x96/8bba285d6edd93fb2acbd97f1e598471/dhl-email-fail.png",
-            "bytes": 5979,
-            "height": 96,
-            "width": 295
-          },
-          {
-            "id": "5dc0ba1bf7ab6422d61bddf7",
-            "_id": "5dc0ba1bf7ab6422d61bddf7",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
-            "bytes": 4603,
-            "height": 96,
-            "width": 295
-          }
-        ],
-        "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc0ba1af7ab6422d61bdde0/c4df7bc02e920b365749161e0827f1d9/dhl-email-fail.png",
-        "pos": 16384
-      }
-    ],
-    "actions": [
-      {
-        "id": "5dc0ba1af7ab6422d61bdde1",
-        "idMemberCreator": "5093ab4a5373eeaf0500ce37",
-        "data": {
-          "card": {
-            "id": "5dc0ba1af7ab6422d61bdde0",
-            "name": "Meine Daten und Services | DHL Kundenkonto",
-            "idShort": 18,
-            "shortLink": "9XKIAbzl"
-          },
-          "list": {
-            "id": "5dc01d21a74d223445930f94",
-            "name": "Fails"
-          },
-          "board": {
-            "id": "5dc01ce1818ce285871ee1b4",
-            "name": "emailvalidation.fail",
-            "shortLink": "OSIlbRbJ"
-          }
-        },
-        "type": "emailCard",
-        "date": "2019-11-04T23:54:02.574Z",
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
