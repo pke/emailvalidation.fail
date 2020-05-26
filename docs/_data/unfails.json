@@ -12,53 +12,48 @@
       "scaled": [
         {
           "_id": "5dc01f352e313c43099c4651",
+          "id": "5dc01f352e313c43099c4651",
           "scaled": false,
           "url": "https://trello-attachments.s3.amazonaws.com/5dc01f332e313c43099c45ff/70x50/6b0cf9ff6a96d5c00994d62d6784b40d/chrome_eRXsnb1XlA.png",
           "bytes": 1527,
           "height": 50,
-          "width": 70,
-          "id": "5dc01f352e313c43099c4651",
-          "typeName": "Preview"
+          "width": 70
         },
         {
           "_id": "5dc01f352e313c43099c4650",
+          "id": "5dc01f352e313c43099c4650",
           "scaled": false,
           "url": "https://trello-attachments.s3.amazonaws.com/5dc01f332e313c43099c45ff/250x150/6b0cf9ff6a96d5c00994d62d6784b40d/chrome_eRXsnb1XlA.png",
           "bytes": 8198,
           "height": 150,
-          "width": 250,
-          "id": "5dc01f352e313c43099c4650",
-          "typeName": "Preview"
+          "width": 250
         },
         {
           "_id": "5dc01f352e313c43099c464f",
+          "id": "5dc01f352e313c43099c464f",
           "scaled": true,
           "url": "https://trello-attachments.s3.amazonaws.com/5dc01f332e313c43099c45ff/150x93/6b0cf9ff6a96d5c00994d62d6784b40d/chrome_eRXsnb1XlA.png",
           "bytes": 4416,
           "height": 93,
-          "width": 150,
-          "id": "5dc01f352e313c43099c464f",
-          "typeName": "Preview"
+          "width": 150
         },
         {
           "_id": "5dc01f352e313c43099c464e",
+          "id": "5dc01f352e313c43099c464e",
           "scaled": true,
           "url": "https://trello-attachments.s3.amazonaws.com/5dc01f332e313c43099c45ff/295x183/6b0cf9ff6a96d5c00994d62d6784b40d/chrome_eRXsnb1XlA.png",
           "bytes": 5974,
           "height": 183,
-          "width": 295,
-          "id": "5dc01f352e313c43099c464e",
-          "typeName": "Preview"
+          "width": 295
         },
         {
           "_id": "5dc01f352e313c43099c464d",
+          "id": "5dc01f352e313c43099c464d",
           "scaled": true,
           "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc01f332e313c43099c45ff/8e185c116b7761792064a9510cf96d5c/chrome_eRXsnb1XlA.png",
-          "width": 295,
-          "height": 183,
           "bytes": 4411,
-          "id": "5dc01f352e313c43099c464d",
-          "typeName": "Preview"
+          "height": 183,
+          "width": 295
         }
       ],
       "edgeColor": "#fcfcfc"
@@ -209,15 +204,15 @@
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
+          "username": "pkursawe",
           "activityBlocked": false,
-          "avatarHash": "c49e3d9119d91a010783357ad4190b91",
-          "avatarUrl": "https://trello-avatars.s3.amazonaws.com/c49e3d9119d91a010783357ad4190b91",
+          "avatarHash": "4c7123f00fdcb6744b92aaac6798e98a",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5093ab4a5373eeaf0500ce37/4c7123f00fdcb6744b92aaac6798e98a",
           "fullName": "Philipp Kursawe",
           "idMemberReferrer": null,
           "initials": "PK",
           "nonPublic": {},
-          "nonPublicAvailable": false,
-          "username": "pkursawe"
+          "nonPublicAvailable": true
         }
       }
     ]
