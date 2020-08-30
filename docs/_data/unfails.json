@@ -116,7 +116,8 @@
           }
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc01f332e313c43099c45ff/3c601dea68a103264b6c276197c72635/image.png",
-        "pos": 16384
+        "pos": 16384,
+        "fileName": "image.png"
       },
       {
         "id": "5dc01f342e313c43099c462e",
@@ -175,7 +176,8 @@
           }
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/5dc01ce1818ce285871ee1b4/5dc01f332e313c43099c45ff/8e185c116b7761792064a9510cf96d5c/chrome_eRXsnb1XlA.png",
-        "pos": 32768
+        "pos": 32768,
+        "fileName": "chrome_eRXsnb1XlA.png"
       }
     ],
     "actions": [
