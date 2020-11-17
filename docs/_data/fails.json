@@ -34,6 +34,7 @@
         },
         "type": "emailCard",
         "date": "2020-08-30T08:25:16.757Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -212,6 +213,7 @@
         },
         "type": "emailCard",
         "date": "2020-05-26T21:43:41.051Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -263,6 +265,7 @@
         },
         "type": "emailCard",
         "date": "2020-02-03T09:30:03.660Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -441,6 +444,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-04T14:50:58.708Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -637,6 +641,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-29T08:01:07.894Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -815,6 +820,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-04T14:00:22.174Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -975,6 +981,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-04T23:54:02.574Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -1153,6 +1160,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-13T14:38:33.535Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
@@ -1349,6 +1357,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-04T17:00:38.089Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",

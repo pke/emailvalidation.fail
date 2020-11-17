@@ -203,6 +203,7 @@
         },
         "type": "emailCard",
         "date": "2019-11-04T12:53:08.003Z",
+        "appCreator": null,
         "limits": {},
         "memberCreator": {
           "id": "5093ab4a5373eeaf0500ce37",
